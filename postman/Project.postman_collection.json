@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "10b1fa1f-2aed-43ae-b5d6-cb6e8a1824b4",
+		"name": "Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "16636259"
+	},
+	"item": [
+		{
+			"name": "GetUsers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/app/v1/users/get"
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
